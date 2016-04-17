@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:geometry-in-context/geometry-in-context.github.io.git
