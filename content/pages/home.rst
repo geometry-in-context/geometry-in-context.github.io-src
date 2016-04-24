@@ -17,6 +17,13 @@ projects' three components:
   <|filename|/pages/volume.rst>`_: These cover the problem of
   calculating basic volumes and applying Cavalieri's principle.
 
+We've Moved!
+------------
+
+As of April, 2016, the new homepage for the project is
+http://geometry-in-context.github.io/. Eventually, the link
+http://math.arizona.edu/~jthomas/gic/ will be taken down, so please
+plan accordingly.
 
 About the Project
 -----------------
@@ -39,3 +46,4 @@ About the Author
 Joseph Thomas graduated with a PhD from the Mathematics program at the
 University of Arizona in 2015. He studied discrete differential
 geometry with his advisor, David Glickenstein.
+
