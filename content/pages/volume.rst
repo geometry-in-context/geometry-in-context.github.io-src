@@ -6,8 +6,8 @@ The ability to calculate the *volume* of a shape is crucial to solving
 many problems in science and engineering. This film discusses
 *Cavalieri's principle*, a technique that makes some volumes easier to
 calculate.
-
-.. vimeo:: https://vimeo.com/127557239
+           
+.. vimeo:: 127557239
    :width: 750
    :height: 500
    :align: center

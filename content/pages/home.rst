@@ -13,23 +13,19 @@ projects' three components:
 * `Trigonometry Video and In-Class Activities <|filename|/pages/trigonometry.rst>`_: These
   cover basic trigonometry, with special emphasis on the tangent
   function.
-* Volume Materials: This part is still under development. When
-  finished, it will cover the problem of calculating volumes and
-  applying Cavalieri's principle.
+* `Volume Video and In-Class Activities
+  <|filename|/pages/volume.rst>`_: These cover the problem of
+  calculating basic volumes and applying Cavalieri's principle.
 
 
 About the Project
 -----------------
 *Geometry in Context* is a mathematics outreach project funded by the
 University of Arizona / NASA Space Grant Graduate Fellowship Program
-in 2014-2015. When completed, the project will consists of a
-collection of 4-5 minute long animated films that demonstrate
-connections between space-science, everyday problem-solving, and
+in 2014-2015. When completed, the project consists of a
+collection of animated films that demonstrate
+connections between science, everyday problem-solving, and
 geometry.
-
-Currently we have completed two films: *Transformations* and
-*Trigonometry*. *Transformations* discusses the four basic types of
-geometric transformations needed to understand Euclidean geometry.
 
 .. 
    figure:: {filename}/images/transf_screenshot.png
@@ -41,13 +37,10 @@ used to solve real-world problems.
 ..
     figure:: {filename}/images/trig_screenshot.png
 
-This Spring we are creating a third film on the topic of volume and
-Cavalieri's principle.
-
 Since August of 2014, this site has received visits from people in
 more than 120 cities and 32 countries. If you use these materials in
 your classroom, it would be great to hear from you! The best way to
-reach me is by email at jthomas.mweinrich@gmail.com. Teacher feedback
+reach me is by email at jthomas@email.arizona.edu. Teacher feedback
 is always appreciated.
 
 About the Author

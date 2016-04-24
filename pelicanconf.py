@@ -38,7 +38,8 @@ JST_SITE_ROOT = "http://geometry-in-context.github.io/"
 MENUITEMS = [('About', JST_SITE_ROOT), 
              ('Links/Contact', JST_SITE_ROOT + 'pages/linkscontact.html'), 
              ('Transformations', JST_SITE_ROOT + 'pages/transformations.html'),
-             ('Trigonometry', JST_SITE_ROOT + 'pages/trigonometry.html')]
+             ('Trigonometry', JST_SITE_ROOT + 'pages/trigonometry.html'),
+             ('Volume', JST_SITE_ROOT + 'pages/volume.html')]
 
 # PAGE_URL = '../{slug}.html'
 # PAGE_SAVE_AS = '../{slug}.html'
