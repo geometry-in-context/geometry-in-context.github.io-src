@@ -20,22 +20,12 @@ projects' three components:
 
 About the Project
 -----------------
+
 *Geometry in Context* is a mathematics outreach project funded by the
 University of Arizona / NASA Space Grant Graduate Fellowship Program
-in 2014-2015. When completed, the project consists of a
-collection of animated films that demonstrate
-connections between science, everyday problem-solving, and
-geometry.
-
-.. 
-   figure:: {filename}/images/transf_screenshot.png
-
-The film *Trigonometry* is designed to introduce students to
-trigonometric ratios and build understanding of how these ratios are
-used to solve real-world problems.
-
-..
-    figure:: {filename}/images/trig_screenshot.png
+in 2014-2015. The project consists of a collection of animated films
+that demonstrate connections between science, everyday
+problem-solving, and geometry.
 
 Since August of 2014, this site has received visits from people in
 more than 120 cities and 32 countries. If you use these materials in
